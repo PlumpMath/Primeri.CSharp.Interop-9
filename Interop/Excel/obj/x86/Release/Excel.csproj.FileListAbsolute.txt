@@ -1,0 +1,5 @@
+D:\aula\primeri.csharp.interop\Interop\Excel\bin\Release\Excel.exe
+D:\aula\primeri.csharp.interop\Interop\Excel\bin\Release\Excel.pdb
+D:\aula\primeri.csharp.interop\Interop\Excel\obj\x86\Release\Excel.csprojResolveAssemblyReference.cache
+D:\aula\primeri.csharp.interop\Interop\Excel\obj\x86\Release\Excel.exe
+D:\aula\primeri.csharp.interop\Interop\Excel\obj\x86\Release\Excel.pdb
