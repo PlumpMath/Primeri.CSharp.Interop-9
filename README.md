@@ -1,5 +1,5 @@
-# Interop минипроект
+п»ї# Interop РјРёРЅРёРїСЂРѕРµРєС‚
 Name: Primeri.CSharp.Interop
 
-## Интегриране към Excel
-В този минипроект ще експортираме таблица в excel, чрез Microsoft Office Interop.
+## РРЅС‚РµРіСЂРёСЂР°РЅРµ РєСЉРј Excel
+Р’ С‚РѕР·Рё РјРёРЅРёРїСЂРѕРµРєС‚ С‰Рµ РµРєСЃРїРѕСЂС‚РёСЂР°РјРµ С‚Р°Р±Р»РёС†Р° РІ excel, С‡СЂРµР· Microsoft Office Interop.
