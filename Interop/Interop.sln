@@ -3,12 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel", "Excel\Excel.csproj", "{9B3ADBB9-3F24-4B2F-AF0C-C0637FEB40D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCADLines", "AutoCADLines\AutoCADLines.csproj", "{39000017-9051-4AE6-B132-2B3B89EC3EBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39000017-9051-4AE6-B132-2B3B89EC3EBD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{39000017-9051-4AE6-B132-2B3B89EC3EBD}.Debug|x86.Build.0 = Debug|Any CPU
+		{39000017-9051-4AE6-B132-2B3B89EC3EBD}.Release|x86.ActiveCfg = Release|Any CPU
+		{39000017-9051-4AE6-B132-2B3B89EC3EBD}.Release|x86.Build.0 = Release|Any CPU
 		{9B3ADBB9-3F24-4B2F-AF0C-C0637FEB40D8}.Debug|x86.ActiveCfg = Debug|x86
 		{9B3ADBB9-3F24-4B2F-AF0C-C0637FEB40D8}.Debug|x86.Build.0 = Debug|x86
 		{9B3ADBB9-3F24-4B2F-AF0C-C0637FEB40D8}.Release|x86.ActiveCfg = Release|x86
